@@ -1,5 +1,6 @@
 # 💫 About Me:
-Android Developer (Kotlin) Spring Boot Backend | MongoDB | Python |  Docker Building scalable, real-world applications Code. Build. Deploy. Repeat
+Full Stack Developer passionate about building scalable applications and exploring modern technologies like DevOps, CI/CD, and AI-driven solutions. I enjoy working on real-world projects, contributing to open source, and continuously improving my problem-solving and development skills. Always eager to learn, collaborate, and create impactful digital experiences.
+
 
 
 ## 🌐 Socials:
